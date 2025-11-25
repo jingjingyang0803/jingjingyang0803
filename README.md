@@ -13,8 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jingjingyang0803&show_icons=true&locale=en&layout=compact" alt="jingjingyang0803" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jingjingyang0803&show_icons=true&locale=en" alt="jingjingyang0803" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jingjingyang0803&" alt="jingjingyang0803" /></p>
