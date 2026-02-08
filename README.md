@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 ### ***📚 Always learning***  
 ***Currently focused on performance optimization, parallel computing, and modern computer architecture***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jingjingyang0803&show_icons=true&locale=en&layout=compact" alt="jingjingyang0803" /></p>
+<p><img align="left" src="https://github-readme-stats-rho-beryl-66.vercel.app/api/top-langs/?username=jingjingyang0803&layout=compact" alt="jingjingyang0803" /></p>
+
