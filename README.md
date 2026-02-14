@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### ***📚 Always learning***  
-***Currently focused on performance optimization, parallel computing, and modern computer architecture***
+***Currently deepening expertise in C/C++, Linux-based development, RTOS, and hardware–software integration within embedded systems.***
 
 <p><img align="left" src="https://github-readme-stats-rho-beryl-66.vercel.app/api/top-langs/?username=jingjingyang0803&layout=compact" alt="jingjingyang0803" /></p>
 
