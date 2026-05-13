@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### ***📚 Always learning***  
-***Currently deepening expertise in C/C++, Linux-based development, RTOS, and hardware–software integration within embedded systems.***
+***Embedded Systems M.Sc. student focused on embedded Linux, low-level software, IoT systems, and hardware–software integration.***
 
 <p><img align="left" src="https://github-readme-stats-rho-beryl-66.vercel.app/api/top-langs/?username=jingjingyang0803&layout=compact" alt="jingjingyang0803" /></p>
 
